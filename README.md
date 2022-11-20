@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brett Ormsby</h1>
 <h3 align="center">A Student And Hobbyist Web Developer</h3>
 
-- 🔭 I’m currently working on [EDH Deck Check](https://github.com/BrettOrmsby/edh-deck-check-v2/)
+- 🔭 I’m currently working on [NonTechnical Tech](https://nontechnicaltech.vercel.app/)
 
-- 🌱 I’m currently learning **TypeScript, Vue, PrimeVue and Nuxt.js**
+- 🌱 I’m currently learning **TypeScript, Rust and Nuxt.js**
 
 - 👨‍💻 All of my projects are available at [https://nontechnicaltech.vercel.app/projects](https://nontechnicaltech.vercel.app/projects)
 
