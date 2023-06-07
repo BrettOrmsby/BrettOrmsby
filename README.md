@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brett Ormsby</h1>
 <h3 align="center">A Student And Hobbyist Web Developer</h3>
 
-- 🔭 I’m currently working on a deck builder website with supabase
+- 🔭 I’m currently working on a browser extention
 
 - 🌱 I’m currently learning **TypeScript, Rust and Nuxt.js**
 
