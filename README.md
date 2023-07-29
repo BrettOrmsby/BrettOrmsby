@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **TypeScript, Rust and Nuxt.js**
 
-- 👨‍💻 All of my projects are available at [https://nontechnicaltech.vercel.app/projects](https://nontechnicaltech.vercel.app/projects)
+- 👨‍💻 All of my projects are available at <https://brettormsby.github.io/Portfolio/projects/>
 
-- 📝 I irregularly write articles on [https://nontechnicaltech.vercel.app/articles](https://nontechnicaltech.vercel.app/articles)
+- 📝 I irregularly write articles on <https://brettormsby.github.io/Portfolio/posts/>
 
 - 📫 How to reach me **brettwormsby@outlook.com**
 
