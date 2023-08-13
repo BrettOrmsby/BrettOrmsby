@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brett Ormsby</h1>
 <h3 align="center">A Student And Hobbyist Web Developer</h3>
 
-- 🌱 I’m currently learning **TypeScript, Rust and Nuxt.js**
-
 - 👨‍💻 All of my projects are available at <https://brettormsby.github.io/Portfolio/projects/>
 
 - 📝 I irregularly write articles on <https://brettormsby.github.io/Portfolio/posts/>
